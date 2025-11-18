@@ -5,7 +5,7 @@ authors: [] # GitHub handles with the main contributors
 category: AI Apps & Agents # AI Apps & Agents | App Modernization | Data Centric Apps | Agentic DevOps
 industry: Cross-Industry # Cross-Industry | Finantial Services | Healthcare & Life Sciences | Manufacturing | Retail & Consumer Goods | Government & Public Sector | Education | Energy & Resources | Telco & Media | Mobility & Automotive
 services: [Azure AI Foundry] # Full list here: https://azure.microsoft.com/en-us/products/
-languages: [] # .NET | Python | Java | Go | TypeSscript | JavaScript | BICEP | Terraform
+languages: [] # .NET | Python | Java | Go | TypeScript | JavaScript | BICEP | Terraform
 frameworks: [] # Microsoft Agent Framework | Aspire | LangChain | Pydantic AI
 tags: [] # Labels used to categorize the template
 extensions: [] # Identifiers of the extensions being used in the template. Example: ms-windows-ai-studio.windows-ai-studio 
