@@ -1,10 +1,10 @@
 ---
-title: Title  # Limit to 40 chars or less; be extremely concise
-description: Description # Summary with 140 chars or less; be extremely concise. Use the README in the repo to provide the full description.
+title: # Limit to 40 chars or less; be extremely concise
+description: # Summary with 140 chars or less; be extremely concise. Use the README in the repo to provide the full description.
 authors: [] # GitHub handles with the main contributors
 category: AI Apps & Agents # AI Apps & Agents | App Modernization | Data Centric Apps | Agentic DevOps
 industry: Cross-Industry # Cross-Industry | Finantial Services | Healthcare & Life Sciences | Manufacturing | Retail & Consumer Goods | Government & Public Sector | Education | Energy & Resources | Telco & Media | Mobility & Automotive
-services: [Azure AI Foundry] # Full list here: https://azure.microsoft.com/en-us/products/
+services: [Microsoft Foundry] # Full list here: https://azure.microsoft.com/en-us/products/
 languages: [] # .NET | Python | Java | Go | TypeScript | JavaScript | BICEP | Terraform
 frameworks: [] # Microsoft Agent Framework | Aspire | LangChain | Pydantic AI
 tags: [] # Labels used to categorize the template
